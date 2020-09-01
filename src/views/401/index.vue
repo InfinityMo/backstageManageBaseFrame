@@ -25,8 +25,10 @@ export default {
 </script>
 <style lang="less" scoped>
 .forbidden-wrap {
+  height: 100vh;
+  background-color: #fff;
   .forbidden {
-    padding-top: 50px;
+    padding-top: 80px;
     text-align: center;
     p {
       padding-top: 10px;
